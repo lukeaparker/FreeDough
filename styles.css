@@ -1,0 +1,8 @@
+div.jumbotron.hero-nature{
+    color:#fff;
+    text-align:center;
+    background:url('baking.jpg');
+    background-size:cover;
+    background-position:center;
+    height: 600px;
+}
